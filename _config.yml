@@ -1,12 +1,12 @@
-title: Jekyll Sunday
-description: "A Jekyll starter base on joshbuchea/HEAD"
+title: WYWYKE by MedPocket
+description: "Medical Websites You Wish You Knew Earlier!"
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "https://area44.github.io/jekyll-sunday"
+url: "https://medpocket.github.io/WYWYKE"
 favicon: favicon.ico
-banner: https://raw.githubusercontent.com/AREA44/.github/main/images/banner.jpg
+banner: https://raw.githubusercontent.com/MedPocket/.github/main/images/banner.jpg
 twitter_username:
-github_username: AREA44
-repository: https://github.com/AREA44/jekyll-sunday
+github_username: MedPocket
+repository: https://github.com/AREA44/WYWYKE
 google_analytics:
 exclude: [readme.md]
 
