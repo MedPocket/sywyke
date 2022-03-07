@@ -1,0 +1,28 @@
+title: Jekyll Sunday
+description: "A Jekyll starter base on joshbuchea/HEAD"
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "https://area44.github.io/jekyll-sunday"
+favicon: favicon.ico
+banner: https://raw.githubusercontent.com/AREA44/.github/main/images/banner.jpg
+twitter_username:
+github_username: AREA44
+repository: https://github.com/AREA44/jekyll-sunday
+google_analytics:
+exclude: [readme.md]
+
+sass:
+  #style: compressed
+
+# Build settings
+markdown: kramdown
+
+# Compress HTML
+compress_html:
+  clippings: all
+  comments: []
+  endings: [p, li, td]
+  ignore:
+    envs: []
+  blanklines: false
+  profile: false
+  startings: [html, head, body]
