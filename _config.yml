@@ -6,7 +6,7 @@ favicon: favicon.ico
 banner: https://raw.githubusercontent.com/MedPocket/.github/main/images/banner.jpg
 twitter_username:
 github_username: MedPocket
-repository: https://github.com/AREA44/WYWYKE
+repository: https://github.com/MedPocket/WYWYKE
 google_analytics:
 exclude: [readme.md]
 
