@@ -28,6 +28,7 @@
 🩺[The Fetal Medicine Foundation](https://fetalmedicine.org) - A Registered Charity.<br>
 🩺[Thư viện y](https://thuvieny.com) - Thư viện Đại học Y.<br>
 🩺[Thực hành thần kinh](https://thuchanhthankinh.com/) - Thực hành thần kinh.<br>
+🩺[Thuốc & Biệt dược](https://www.thuocbietduoc.com.vn/) - Cung cấp thông tin về hơn 30.000 loại thuốc theo toa, thuốc không kê đơn.<br>
 🩺[Tổng hội Y học Việt Nam](http://tonghoiyhoc.vn)<br>
 🩺[Từ điển Y khoa HMU](https://hmu.edu.vn/news/dict.aspx) - Từ điển Anh Việt Y khoa của Y Hà Nội.<br>
 🩺[Từ điển Y khoa Medisoft](http://medisoft.com.vn/medic.asp) - Từ điển Anh Việt Y khoa của Medisoft.<br>
