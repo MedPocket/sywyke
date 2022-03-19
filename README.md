@@ -8,6 +8,7 @@
 🩺[FIGO](https://www.figo.org) - The International Federation of Gynecology and Obstetrics.<br>
 🩺[Geeky Medics](https://geekymedics.com/) - free medical revision notes, OSCE guides & MCQs.<br>
 🩺[Health Việt Nam](https://healthvietnam.vn/) - Nền tảng Y tế vì người Việt.<br>
+🩺[Hồi sức cấp cứu Việt Nam](https://hscc.vn/tools.asp) - Bộ công cụ đánh giá bệnh nhân.<br>
 🩺[Hội Thần kinh học Việt Nam](https://hoithankinhhocvietnam.com.vn/)<br>
 🩺[HOREM](http://hosrem.org.vn) - Hội Nội tiết sinh sản và Vô sinh thành phố Hồ Chí Minh.<br>
 🩺[ICD-10](http://icd.kcb.vn) - Tra cứu danh mục ICD-10.<br>
