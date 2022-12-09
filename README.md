@@ -11,6 +11,7 @@
 - [MSD](https://www.msdmanuals.com/vi) - Nhà cung cấp thông tin y khoa đáng tin cậy từ năm 1899.
 - [Osmosis](https://www.osmosis.org) - Go Beyond Medical Lectures.
 - [OsmosisVietnamese](https://www.youtube.com/channel/UCj4fwpXgw-jyiZ4TPAdChbw) - Osmosis Tiếng Việt trên YouTube.
+- [PHÁCĐỒĐIỀUTRỊ.COM](https://phacdodieutri.com) - Phác đồ điều trị y khoa mới nhất xây dựng từ các bệnh viện toàn quốc
 - [PubMed](https://pubmed.ncbi.nlm.nih.gov) - National library of medicine.
 - [Thầy Thuốc Việt Nam](https://thaythuocvietnam.vn) - Vì sức khỏe người Việt.
 - [The Fetal Medicine Foundation](https://fetalmedicine.org) - A Registered Charity.
