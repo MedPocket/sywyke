@@ -39,6 +39,8 @@
 - [FIGO](https://www.figo.org) - The International Federation of Gynecology and Obstetrics.
 - [HOREM](http://hosrem.org.vn) - Hội Nội tiết sinh sản và Vô sinh thành phố Hồ Chí Minh.
 - [Perinatology.com](http://perinatology.com)
+- [The Fetal Medicine Foundation](https://www.fetalmedicine.org) - Tthe Fetal Medicine Foundation.
+- [Fetal Medicine Barcelona](https://fetalmedicinebarcelona.org/en/) - The Postgraduate Program in Fetal Medicine is designed for specialists in gynecology and obstetrics with [Calculadoras](https://fetalmedicinebarcelona.org/calc-en) and [Protocol](https://fetalmedicinebarcelona.org/en/protocol).
 - [Sản Phụ Khoa HMU 2020](https://youtube.com/playlist?list=PLL1t1-UomvZ_LTucKsiTVLxU0_IStehl4) - Video bài giảng Sản Phụ Khoa Y Hà Nội 2020.
 
 ## Nhi Khoa
